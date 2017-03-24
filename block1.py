@@ -43,6 +43,10 @@ w = myproxy.getblockcount()
 
 P = a + str(w)
 
+if p3 == 1 :
+    
+    U = U + " #emptyblock"
+
 
 s = twitter.update_status(status='New Block: ' + P + "\n" + O + "\n" + U)
 print (s)
