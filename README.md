@@ -28,6 +28,14 @@ sudo python setup.py build
 sudo python setup.py install
 ```
 
+## installing bitcoin price module
+
+```
+git clone https://github.com/dursk/bitcoin-price-api
+cd bitcoin-price-api
+sudo python setup.py install
+```
+
 ### Setting up one of the twitter modules
 
 ```
