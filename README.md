@@ -65,6 +65,8 @@ os.system('python /home/pi/Music/first1.py')
 ## command to put in bitcoin.conf
 ### blocknotify='location of block1.py' %s
 
-[Created By Steve Douglas][https://twitter.com/_myveryown]
-[And Oliver Morris][https://twitter.com/official_coder]
+## Created By Steve Douglas
+<https://twitter.com/_myveryown>
+# And Oliver Morris
+<https://twitter.com/official_coder>
 
